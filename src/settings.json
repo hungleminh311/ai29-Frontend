@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here.",
+        "title": "Hit the Road Without a Hitch!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Hit the Road Without a Hitch!",
+  "subtitle": "Effortless car rentals with unbeatable convenience. Your journey starts here."
+}
